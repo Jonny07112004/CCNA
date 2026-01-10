@@ -87,7 +87,6 @@ This topic is directly tested in **CCNA (200-301)** under:
 ## Learning Status
 ✔ Studied  
 ✔ Documented  
-✔ Practiced in Cisco Packet Tracer  
 
 ---
 
